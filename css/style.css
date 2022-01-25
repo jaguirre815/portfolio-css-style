@@ -1,6 +1,7 @@
 body {
 background-image: url(https://media.idownloadblog.com/wp-content/uploads/2021/09/Apple-September-Event-California-Streaming-BasicAppleGuy-iDownloadBlog-6K.png);
-   }   h1 {text-align:right; font:italic; font-size: 90px; color: rgb(11, 243, 224);}
+   }   
+   h1 {text-align:right; font:italic; font-size: 90px; color: rgb(11, 243, 224);}
     h2 {font:italic; font-size: 70px; color: rgb(255, 103, 103);text-align: right;}
     h3 {color: rgb(240, 237, 85);font-size: 15px;font-style: italic; text-align: right;}
     h4 {color: rgb(221, 218, 7); text-align: left;font-size: 35px;}
